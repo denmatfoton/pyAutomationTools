@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<home name="myhome">
+    <room name="livingroom">
+        <curtain name="curtain" type="433RF">
+            <code name="open">
+                curtain1open
+            </code>
+            <code name="close">
+                curtain1close
+            </code>
+        </curtain>
+    </room>
+    <room name="bedroom">
+        <curtain name="curtain" type="433RF">
+            <code name="open">
+                curtain2open
+            </code>
+            <code name="close">
+                curtain2close
+            </code>
+        </curtain>
+    </room>
+    <room name="kitchen">
+
+    </room>
+</home>
